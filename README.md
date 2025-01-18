@@ -11,6 +11,11 @@ I love turning data into actionable insights and building intelligent systems th
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 - 📫 How to reach me: rohansoni457@gmail.com
 
-## 🚀 My Projects
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohansoni9475/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Rohansoni45)
+[![Code360](https://img.shields.io/badge/Code360-green?style=for-the-badge&logo=code)](https://www.naukri.com/code360/profile/RohSoni)
+[![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/rohansoni457)
 
 ## 🛠 Languages and Tools
