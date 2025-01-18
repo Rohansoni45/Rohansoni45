@@ -1,5 +1,5 @@
-## Hi 👋, I'm Rohan Soni
-### Unleashing the Power of Data with Machine Learning Magic
+                                  ## Hi 👋, I'm Rohan Soni
+              ### Unleashing the Power of Data with Machine Learning Magic
 
 I'm a B.Tech CSE student specializing in Data Science and Machine Learning.  
 I love turning data into actionable insights and building intelligent systems that make an impact!
