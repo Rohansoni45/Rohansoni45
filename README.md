@@ -9,7 +9,7 @@ I love turning data into actionable insights and building intelligent systems th
 
 - 🌱 I’m currently learning **Deep Learning**
 - 👯 I’m looking to collaborate on Machine Learning & AI Projects
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/maanya268)
+- 👨‍💻 All of my projects are available at [GitHub]()
 - 💬 Ask me about **Data Science, Machine Learning Models, and AI Deployment**
 - 📫 How to reach me: rohansoni457@gmail.com
 - ⚡ Fun fact: *"AI is like a toddler—always learning, sometimes unpredictable, and occasionally terrifyingly smart!"*
