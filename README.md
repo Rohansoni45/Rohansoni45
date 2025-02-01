@@ -7,12 +7,12 @@
 I'm a B.Tech CSE student specializing in Data Science and Machine Learning.  
 I love turning data into actionable insights and building intelligent systems that make an impact!
 
-## 🌱 I’m currently learning **Deep Learning**
-## 👯 I’m looking to collaborate on Machine Learning & AI Projects
-## 👨‍💻 All of my projects are available at [GitHub](https://github.com/maanya268)
-## 💬 Ask me about **Data Science, Machine Learning Models, and AI Deployment**
-## 📫 How to reach me: rohansoni457@gmail.com
-## ⚡ Fun fact: *"AI is like a toddler—always learning, sometimes unpredictable, and occasionally terrifyingly smart!"*
+- 🌱 I’m currently learning **Deep Learning**
+- 👯 I’m looking to collaborate on Machine Learning & AI Projects
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/maanya268)
+- 💬 Ask me about **Data Science, Machine Learning Models, and AI Deployment**
+- 📫 How to reach me: rohansoni457@gmail.com
+- ⚡ Fun fact: *"AI is like a toddler—always learning, sometimes unpredictable, and occasionally terrifyingly smart!"*
 
 ## Connect with me
 
