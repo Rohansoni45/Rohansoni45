@@ -7,6 +7,9 @@
 I'm a B.Tech CSE student specializing in Data Science and Machine Learning.  
 I love turning data into actionable insights and building intelligent systems that make an impact!
 
+<img align="right" alt="co" width="400" src="https://github.com/user-attachments/assets/0751edc8-9251-48f4-bc29-dc97a3b72e53">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansoni45&label=Profile%20views&color=0e75b6&style=flat" alt="rohansoni45" /> </p>
 
 - 🌱 I’m currently learning **Deep Learning**
