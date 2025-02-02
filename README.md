@@ -14,12 +14,12 @@ I love turning data into actionable insights and building intelligent systems th
 - 📫 How to reach me: rohansoni457@gmail.com
 - ⚡ Fun fact: *"AI is like a toddler—always learning, sometimes unpredictable, and occasionally terrifyingly smart!"*
 
-## Connect with me
+## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohansoni9475/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Rohansoni45)
-[![Code360](https://img.shields.io/badge/Code360-green?style=for-the-badge&logo=code)](https://www.naukri.com/code360/profile/RohSoni)
-[![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/rohansoni457)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohansoni9475/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohansoni45)
+[![Code360](https://img.shields.io/badge/Code360-00A98F?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.naukri.com/code360/profile/RohSoni)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/rohansoni457)
 
 ## 🛠 Languages and Tools
 
