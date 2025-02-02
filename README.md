@@ -1,4 +1,4 @@
-![logo](https://github.com/Rohansoni45/Rohansoni45/blob/main/banner.gif)
+![logo](https://github.com/user-attachments/assets/4d8e781d-cb1c-487a-9ead-8f4a4468119b)
 <!-- Centered Heading -->
 <h1 align="center">Hi 👋, I'm Rohan Soni</h1>
 
