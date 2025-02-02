@@ -1,3 +1,4 @@
+![logo](https://github.com/Rohansoni45/Rohansoni45/blob/main/banner.gif)
 <!-- Centered Heading -->
 <h1 align="center">Hi 👋, I'm Rohan Soni</h1>
 
